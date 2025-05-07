@@ -34,7 +34,7 @@ SERPAPI_KEY = "258ef6e2c5b5347e763500df9e2c9e1616bd04c7462a82ba0982ab099a883723"
 
 # extra api key with credts
 # SERPAPI_KEY = "222e58038ed2c15178813840e2a4c10eed88d42b684bb9aae12731baa7b095f6"
-REMOVE_BG_API_KEY = "BRvJ96jcvFbdtzd3MaVCzaRc"
+REMOVE_BG_API_KEY = "TdrP8LZ8Prq3LnCnniN58kS4"
 
 
 # Capture video from webcam
